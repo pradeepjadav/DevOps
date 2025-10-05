@@ -1,2 +1,4 @@
 # DevOps
-Learning a Development + Operation to build a scalable and make an automate the process of soluction.
+Learning to develop and operate to build a scalable solution and automate the process.
+
+- Learning and Coming Soon....
